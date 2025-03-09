@@ -10,12 +10,11 @@ Dashboards to provide insights into leave trends and faculty availability.
 This project enhances transparency, reduces manual effort, and improves 
 decision-making for Principals, HODs, and faculty members. .
 
-## 📽 Demo Video
+##  Video
 
 Click to play the demo video:
 
 [![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/IuqsBXmt3rI)
 
-### 📌 Embed Preview
+### Please check out the jpg files to view the emails recieved 
 
-If your markdown viewer supports HTML rendering, the video will play directly below:
